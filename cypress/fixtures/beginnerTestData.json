@@ -1,0 +1,16 @@
+{
+    "pageUrl" : "http://localhost:3000/dashboard",
+    "pageTitle" : "ProLog - Projects",
+    "project_page_heading": "Projects",
+    "options" : {
+        "projects" : "Projects",
+        "issues" : "Issues",
+        "alerts":"Alerts",
+        "users" : "Users",
+        "settings": "Settings",
+        "support": "Support",
+        "collapse" : "Collapse"
+    }
+  
+    
+}
